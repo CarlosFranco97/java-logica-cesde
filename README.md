@@ -19,7 +19,6 @@ IDE: IntelliJ IDEA.
 ## Contenidos del repositorio
 
 ✔ Sintaxis básica: Variables, operadores, estructuras de control.
-✔ POO en Java: Clases, objetos, herencia, polimorfismo y encapsulamiento.
 ✔ Estructuras de datos: Arreglos, listas y mapas.
 ✔ Manejo de excepciones: Uso de try-catch y excepciones personalizadas.
 ✔ Entrada y salida: Uso de Scanner y System.out para la interacción con el usuario.
